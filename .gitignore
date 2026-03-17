@@ -1,0 +1,12 @@
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.httr-oauth
+.DS_Store
+Thumbs.db
+*.Rproj
+renv/library/
+renv/staging/
+rsconnect/
