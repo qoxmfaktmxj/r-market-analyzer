@@ -226,16 +226,16 @@ r-market-analyzer/
 추가로 Yahoo Finance 데이터 소스 특성상 일시적으로 응답이 실패하거나 일부 자산의 메타데이터가 불안정할 수 있습니다.  
 실무 환경에서는 데이터 공급원 이중화, 캐싱, 사용자 설정 저장 기능을 함께 고려하는 것이 좋습니다.
 
-## 13. 스크린샷 섹션
+## 13. 스크린샷
 
-추후 아래 위치에 스크린샷을 추가할 수 있습니다.
+### 메인 대시보드
 
-- `docs/screenshots/dashboard-overview.png`
-- `docs/screenshots/comparison-view.png`
+기준 종목, 비교 종목, 이동평균선, 변동성 요약을 한 화면에서 확인할 수 있는 기본 대시보드입니다.
 
-예시 마크다운:
+![메인 대시보드](docs/screenshots/dashboard-overview.png)
 
-```md
-![대시보드 메인 화면](docs/screenshots/dashboard-overview.png)
+### 비교 분석 화면
+
+정규화 가격 비교, 기간 수익률 차트, 비교 테이블을 중심으로 확인할 수 있는 하단 분석 영역입니다.
+
 ![비교 분석 화면](docs/screenshots/comparison-view.png)
-```
