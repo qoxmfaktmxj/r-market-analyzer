@@ -238,4 +238,3 @@ r-market-analyzer/
 
 정규화 가격 비교, 기간 수익률 차트, 비교 테이블을 중심으로 확인할 수 있는 하단 분석 영역입니다.
 
-![비교 분석 화면](docs/screenshots/comparison-view.png)
